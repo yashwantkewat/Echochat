@@ -1,0 +1,10 @@
+.App{
+    background: 
+    linear-gradient(to bottom right, 
+        orange 50%, 
+        white 50%) top left,
+    linear-gradient(to top left, 
+        white 50%, 
+        orange 50%) bottom right; 
+  border-radius: 10px;
+}
